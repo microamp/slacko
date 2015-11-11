@@ -1,0 +1,6 @@
+{
+    "GoPlaygroundHost": "http://play.golang.org/compile?output=json",
+    "BotName": "slacko",
+    "DebugOn": true,
+    "CacheSize": 128
+}
