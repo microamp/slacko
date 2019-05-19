@@ -5,8 +5,11 @@ Slack bot meets Go Playground
 Demos
 -----
 * Single-line code
+
 ![](https://cdn.rawgit.com/microamp/slacko/develop/gifs/slacko1-new.gif)
+
 * Multi-line code
+
 ![](https://cdn.rawgit.com/microamp/slacko/develop/gifs/slacko2-new.gif)
 
 Dependencies
